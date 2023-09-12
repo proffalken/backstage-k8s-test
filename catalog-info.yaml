@@ -6,3 +6,7 @@ metadata:
     Testing Backstage kubernetes integrations
   annotations:
     'backstage.io/kubernetes-id': octoprint-server
+spec:
+  type: service
+  owner: proffalken
+  lifecycle: production

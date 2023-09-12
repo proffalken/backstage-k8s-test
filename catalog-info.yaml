@@ -4,5 +4,5 @@ metadata:
   name: backstage-k8s-test
   description: |
     Testing Backstage kubernetes integrations
-annotations:
-  'backstage.io/kubernetes-id': octoprint-server
+  annotations:
+    'backstage.io/kubernetes-id': octoprint-server

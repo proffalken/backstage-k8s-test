@@ -1,2 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-k8s-test
+  description: |
+    Testing Backstage kubernetes integrations
 annotations:
-  'backstage.io/kubernetes-id': dice-roller
+  'backstage.io/kubernetes-id': octoprint-server
